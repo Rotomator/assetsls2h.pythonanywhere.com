@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assetsls2h.pythonanywhere.com/sitemap.xml.gz
